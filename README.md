@@ -1,4 +1,8 @@
 # -WebScrapingTask-Clutch
 
-This repository contains the solution for the task assigned as a part of interview process.
-The task is to scrape Clutch.io
+This repository contains the solution for the task assigned to scrape Clutch.io
+
+## Technologies used
+Selenium(web driver), BeautifulSoup4, Python
+
+
